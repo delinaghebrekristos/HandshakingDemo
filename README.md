@@ -25,8 +25,8 @@ dataReceived will include the messages that were sent by the Sender and received
 dataSending will include the acknowledgement to be received by the Sender in order to move on to the next packet to be sent and saved into the new File being created by the sender.
 Timing Reports 
 
-File Size        	  Mds       	Time Out	  Transmission Time
-200kb (unreliable)	512	         4000	        225619
-200kb (reliable)	  900	         2000	         5639
-3kb (reliable)	     60	         5000	          159
-3kb (unreliable)	  700	         3000	           49
+File Size/        	  Mds/       	Time Out/	  Transmission Time
+200kb (unreliable)/	512/	         4000/	        225619
+200kb (reliable)/	  900/	         2000/         5639
+3kb (reliable)/	     60/	         5000/	          159
+3kb (unreliable)/	  700/	         3000/	           49
